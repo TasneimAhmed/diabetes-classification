@@ -22,7 +22,7 @@ Datasets:
 
 Pima Indians Diabetes Dataset: https://github.com/TasneimAhmed/diabetes-classification/blob/main/notebook%20and%20data/first_data/diabetes.csv 
 
-Extended Diabetes Dataset: Contains additional features like lifestyle factors and medical history.
+Extended Diabetes Dataset: Contains additional features like lifestyle factors and medical history. https://github.com/TasneimAhmed/diabetes-classification/blob/main/notebook%20and%20data/second_data/diabetes_prediction_dataset.csv 
 
 Key Tasks:
 
