@@ -71,6 +71,12 @@ Evaluate models using the following metrics:
 Accuracy
 
 Precision, Recall, and F1-Score
+![tab](https://github.com/user-attachments/assets/127f2f33-ab06-48a3-a691-6d0353afc544)
+
+
+
+
+![tab2](https://github.com/user-attachments/assets/8512390e-667d-4606-a424-0512b3daf73f)
 
 **Generate:**
 
@@ -104,3 +110,6 @@ Advanced Models: sklearn, tensorflow (optional for neural networks)
 
 ## Repository 
 https://github.com/TasneimAhmed/diabetes-classification.git 
+
+
+   ![image](https://github.com/user-attachments/assets/99a98ca5-6ff7-4930-a203-262597a9eed2)
