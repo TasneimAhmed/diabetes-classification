@@ -112,7 +112,8 @@ Machine Learning: scikit-learn, imbalanced-learn
 
 Advanced Models: sklearn, tensorflow (optional for neural networks)
 
-## Repository 
+## Installation
+**Repository** 
 https://github.com/TasneimAhmed/diabetes-classification.git 
 
 
