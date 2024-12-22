@@ -20,7 +20,7 @@ This project demonstrates the end-to-end machine learning pipeline, including da
 
 Datasets:
 
-Pima Indians Diabetes Dataset: /content/diabetes.csv
+Pima Indians Diabetes Dataset: https://github.com/TasneimAhmed/diabetes-classification/blob/main/notebook%20and%20data/first_data/diabetes.csv 
 
 Extended Diabetes Dataset: Contains additional features like lifestyle factors and medical history.
 
