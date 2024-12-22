@@ -4,6 +4,8 @@
 
 Predicting Diabetes: A Comprehensive Machine Learning Approach
 
+   ![image](https://github.com/user-attachments/assets/99a98ca5-6ff7-4930-a203-262597a9eed2) 
+   
 ### 2. Project Objective
 
 To build and evaluate machine learning models for diabetes prediction using two datasets:
@@ -114,4 +116,4 @@ Advanced Models: sklearn, tensorflow (optional for neural networks)
 https://github.com/TasneimAhmed/diabetes-classification.git 
 
 
-   ![image](https://github.com/user-attachments/assets/99a98ca5-6ff7-4930-a203-262597a9eed2)
+
